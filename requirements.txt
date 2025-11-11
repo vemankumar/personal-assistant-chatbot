@@ -1,0 +1,6 @@
+﻿opencv-python
+numpy
+pillow
+pyttsx3
+SpeechRecognition
+playsound
